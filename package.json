@@ -28,7 +28,7 @@
   },
   "dependencies": {
     "deasync": "0.1.2",
-    "node-sass": "3.3.0",
+    "node-sass": "3.3.3",
     "semver": "^4.2.0",
     "tmp": "0.0.25"
   },
